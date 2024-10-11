@@ -18,9 +18,7 @@
 ```
 Modul Praktikum Pemrograman Web 
 
-
 ![Login page](https://github.com/user-attachments/assets/45c49b8a-e5fe-4d46-833b-fcfac09d6cd3)
-
 # Membuat Ordered List
 ```
 <!DOCTYPE html>
@@ -51,8 +49,6 @@ Modul Praktikum Pemrograman Web
 Modul Praktikum Pemrograman Web 
 
 ![ordered list](https://github.com/user-attachments/assets/9ba13469-976f-4b91-aa8f-638c62d47ded)
-
-
 # Membuat Unorderd List 
 ```
 <section id="unorder-list">
@@ -65,6 +61,7 @@ Modul Praktikum Pemrograman Web
 </section>
 ```
 Modul Praktikum Pemrograman Web 
+
 ![unordered list](https://github.com/user-attachments/assets/8e50f62b-6f67-4173-adb0-58a61c01b118)
 # Membuat Description List
 ```
@@ -83,6 +80,7 @@ Modul Praktikum Pemrograman Web
 </section>
 ```
 Modul Praktikum Pemrograman Web 
+
 ![description list](https://github.com/user-attachments/assets/589720d7-ffbd-4794-9050-0412e77ddf46)
 # Membuat Tabel
 ```
@@ -132,7 +130,6 @@ Modul Praktikum Pemrograman Web
 Modul Praktikum Pemrograman Web 
 
 ![table](https://github.com/user-attachments/assets/5d109651-3a0e-4d67-9bfd-94c2f0ba2891)
-
 # Mengatur Margin dan Padding 
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan 
 cellspacing pada tag table. 
@@ -140,8 +137,8 @@ cellspacing pada tag table.
 <table border="1" cellpadding="4" cellspacing="0">
 ```
 Modul Praktikum Pemrograman Web 
-![cell padding](https://github.com/user-attachments/assets/f0096d52-0e5d-4d7a-95fe-4b5f1c499622)
 
+![cell padding](https://github.com/user-attachments/assets/f0096d52-0e5d-4d7a-95fe-4b5f1c499622)
 # Menggabungkan Sel Data 
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk 
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara 
@@ -172,9 +169,9 @@ horizontal).
     </tbody>
 </table>
 ```
-Modul Praktikum Pemrograman Web 
-![penggabungan sel](https://github.com/user-attachments/assets/3ac1247e-be66-47b0-9f45-fdeba3744c68)
+Modul Praktikum Pemrograman Web
 
+![penggabungan sel](https://github.com/user-attachments/assets/3ac1247e-be66-47b0-9f45-fdeba3744c68)
 # Membuat Form 
 ```
 <!DOCTYPE html>
@@ -216,7 +213,6 @@ Modul Praktikum Pemrograman Web
 Modul Praktikum Pemrograman Web
 
 ![form](https://github.com/user-attachments/assets/7855666c-b3af-42f2-94de-500d04e7d482)
-
 # Menabahkan Style pada Form 
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut. 
 ```
@@ -237,7 +233,6 @@ padding: 5px 15px;
 } 
 </style>
 ```
-
 Modul Praktikum Pemrograman Web 
 
 ![form css](https://github.com/user-attachments/assets/c96af872-6ca3-45da-b96a-85956e59feba)
